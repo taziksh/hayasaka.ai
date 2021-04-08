@@ -1,8 +1,10 @@
 #  This Hayasaka Does Not Exist. 
 
-A mere 9hours of finetuning with Free Google Colab GPU:
+After 9hours of finetuning with Free Google Colab GPU:
 
 ![n=322, ~9 hours of finetuning on pre-trained anime face model](/run_1_circular.gif)
+
+Check out the Jupyter Notebook for more details!
 
 ### Upcoming:
 - [ ] Guide with scripts to enable easy training of arbitrary waifus.
